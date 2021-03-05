@@ -12,6 +12,10 @@ a {
   text-decoration: none;
 }
 
+z {
+  font-size: 14px;
+}
+
 a:hover {
   opacity: 0.5;
 }
